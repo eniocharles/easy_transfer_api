@@ -1,0 +1,30 @@
+# Arquivos e pastas do Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+ENV/
+.env
+
+# Configurações do Django
+*.log
+db.sqlite3
+/media/
+/staticfiles/
+
+# Arquivos do VS Code
+.vscode/
+
+# Dependências
+node_modules/
+package-lock.json
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
